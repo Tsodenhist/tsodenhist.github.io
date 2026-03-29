@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Historical researcher, freelance journalist and trombonist.
 
 profile:
   align: right
